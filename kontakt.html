@@ -2,7 +2,7 @@
 <html lang="de">
 <head>
   <meta charset="UTF-8" />
-  <title>Angelverein Moosburg</title>
+  <title>Kontakt | Angelverein Moosburg</title>
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
   <link rel="stylesheet" href="css/style.css" />
 </head>
@@ -19,11 +19,19 @@
   </header>
 
   <main>
-    <section class="hero">
-      <h2>Gemeinsam angeln, gemeinsam erleben</h2>
-      <p>Unser Angelverein verbindet Natur, Freundschaft und nachhaltige Fischerei – sei dabei!</p>
-      <img src="images/verein.jpg" alt="Angelverein" />
-    </section>
+    <h2>Kontakt</h2>
+    <form>
+      <label for="name">Name:</label><br />
+      <input type="text" id="name" name="name" required><br />
+
+      <label for="email">E-Mail:</label><br />
+      <input type="email" id="email" name="email" required><br />
+
+      <label for="message">Nachricht:</label><br />
+      <textarea id="message" name="message" rows="5" required></textarea><br />
+
+      <button type="submit">Senden</button>
+    </form>
   </main>
 
   <footer>
@@ -31,4 +39,3 @@
   </footer>
 </body>
 </html>
-
