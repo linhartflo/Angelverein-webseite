@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="de">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Angelverein Moosburg</title>
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+  <header>
+    <h1>Willkommen beim Angelsportverein Buch am Erlbach e.V.</h1>
+    <nav>
+      <ul>
+        <li><a href="#">Startseite</a></li>
+        <li><a href="#">Über uns</a></li>
+        <li><a href="#">Mitglied werden</a></li>
+        <li><a href="#">Kontakt</a></li>
+      </ul>
+    </nav>
+  </header>
+
+  <main>
+    <section class="hero">
+      <h2>Gemeinsam die Natur erleben</h2>
+      <p>Unser Angelverein bietet eine freundliche Gemeinschaft für alle Altersklassen – egal ob Anfänger oder Profi.</p>
+    </section>
+
+    <section class="info">
+      <h3>Was wir bieten:</h3>
+      <ul>
+        <li>Vereinseigene Angelgewässer</li>
+        <li>Regelmäßige Events & Wettbewerbe</li>
+        <li>Jugendförderung & Schulungen</li>
+      </ul>
+    </section>
+  </main>
+
+  <footer>
+    <p>&copy; 2025 Angelverein Moosburg | Kontakt: info@angelverein-moosburg.de</p>
+  </footer>
+</body>
+</html>
