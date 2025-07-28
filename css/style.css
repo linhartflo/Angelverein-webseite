@@ -19,9 +19,15 @@ header {
     flex-wrap: wrap;
 }
 
-header .logo {
+header a img.logo {
     height: 60px;
+    display: block;
 }
+
+header a {
+    text-decoration: none;
+}
+
 
 nav ul {
     list-style: none;
