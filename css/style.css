@@ -19,13 +19,9 @@ header {
     flex-wrap: wrap;
 }
 
-header a img.logo {
+header .logo {
     height: 60px;
     display: block;
-}
-
-header a {
-    text-decoration: none;
 }
 
 
