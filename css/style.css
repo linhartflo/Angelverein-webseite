@@ -90,3 +90,22 @@ footer {
     padding: 1rem;
     margin-top: 3rem;
 }
+
+/* Stil für die Über-uns-Seite */
+.about-us {
+    background-color: #ffffff;
+    padding: 2rem;
+    border-radius: 8px;
+    box-shadow: 0 0 10px rgba(0,0,0,0.05);
+    max-width: 800px;
+    margin: 2rem auto;
+}
+
+.about-us h1, .about-us h2 {
+    color: #2e7d32;
+}
+
+.about-us ul {
+    margin-top: 1rem;
+    padding-left: 1.2rem;
+}
