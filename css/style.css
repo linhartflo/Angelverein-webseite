@@ -65,6 +65,9 @@ main {
 .hero p {
     font-size: 1.2rem;
 }
+.hero p1 { 
+    font-size: 0,8rem;
+}
 
 /* News-Bereich */
 .news {
